@@ -29,4 +29,4 @@ To achieve mastery
 
 `Fancy code`
 
---- Horizontal rule
+---
