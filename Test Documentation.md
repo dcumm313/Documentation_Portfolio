@@ -14,3 +14,18 @@
 To achieve mastery
 
 >block this dude
+
+## Best Snacks
+
+1. Salt n Vinegar Chips
+2. Andy Cap Cheese Fries
+3. Xtra Cheesy Goldfish
+
+### Good Movies
+
+- The Menu
+- O Brother Where Art Thou
+- Spider-man or Whatever
+
+' Fancy code '
+'Fancy code'
