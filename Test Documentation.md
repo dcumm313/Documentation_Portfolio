@@ -30,3 +30,7 @@ To achieve mastery
 `Fancy code`
 
 ---
+
+[Linkedin of a really smart guy](https://www.linkedin.com/in/dilloncummings/)
+
+
