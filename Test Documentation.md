@@ -27,7 +27,6 @@ To achieve mastery
 - O Brother Where Art Thou
 - Spider-man or Whatever
 
-' Fancy code '
-'Fancy code'
-
 `Fancy code`
+
+--- Horizontal rule
