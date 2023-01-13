@@ -33,4 +33,12 @@ To achieve mastery
 
 [Linkedin of a really smart guy](https://www.linkedin.com/in/dilloncummings/)
 
+Table:
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
 
