@@ -61,6 +61,7 @@ Sir Francis Drake, [^1] who sailed the ocean [^2] and discovered things[^3].
 
 Bones
 : game pieces
+: body parts
 
 ~~Practice Markdown~~
 Make Dinner
