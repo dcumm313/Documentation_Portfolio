@@ -53,9 +53,9 @@ Table:
 
 Sir Francis Drake, [^1] who sailed the ocean [^2] and discovered things[^3].
 
-[^1] A guy.
-[^2] Some ocean somewhere.
-[^3] Probably a lot of things.
+[^1]: A guy.
+[^2]: Some ocean somewhere.
+[^3]: Probably a lot of things.
   
 
 
