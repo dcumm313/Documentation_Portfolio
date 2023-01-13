@@ -57,5 +57,26 @@ Sir Francis Drake, [^1] who sailed the ocean [^2] and discovered things[^3].
 [^2]: Some ocean somewhere.
 [^3]: Probably a lot of things.
   
+### I could use CSS to make this look cool {#custom-id}
+
+Bones
+: game pieces
+
+~~Practice Markdown~~
+Make Dinner
+~~Eat Snacks~~
+
+- [x] Practice Markdown
+- [ ] Play videogames
+- [ ] Run for President
+
+Emojis are dumb 🥲
+
+If theres anything important in a sentence people should really ==remember==, don't forget ==to highlight it==.
+
+H~2~O
+
+X^2^
+
 
 
