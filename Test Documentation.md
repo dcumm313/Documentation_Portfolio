@@ -39,6 +39,19 @@ Table:
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+| Wednesday | Work |
+| Thursday | Work |
+| Friday | Party |
 
+---
+{
+  "firstName": "Dillon",
+  "lastName": "Cummings",
+  "age": 27
+}
+---
+
+
+  
 
 
