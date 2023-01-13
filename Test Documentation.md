@@ -73,11 +73,11 @@ Make Dinner
 
 Emojis are dumb 🥲
 
-If theres anything important in a sentence people should really ==remember==, don't forget ==to highlight it==.
+If theres anything important in a sentence people should really ==remember==, and it is supported, don't forget ==to highlight it==.
 
 H~2~O
 
-X^2^
+X^2
 
 
 
