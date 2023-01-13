@@ -43,13 +43,13 @@ Table:
 | Thursday | Work |
 | Friday | Party |
 
----
+```
 {
   "firstName": "Dillon",
   "lastName": "Cummings",
   "age": 27
 }
----
+```
 
 
   
