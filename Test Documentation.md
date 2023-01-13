@@ -35,13 +35,13 @@ To achieve mastery
 
 Table:
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-| Wednesday | Work |
-| Thursday | Work |
-| Friday | Party |
+| Syntax | Description | Extra |
+| ----------- | ----------- | --- |
+| Header | Title | Stuff |
+| Paragraph | Text | Stuff |
+| Wednesday | Work | Stuff |
+| Thursday | Work | Stuff |
+| Friday | Party | More Stuff |
 
 ```
 {
